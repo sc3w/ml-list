@@ -4,17 +4,13 @@ Here you can find a list of machine learning algorithms with links to learning m
 
 Feel free to improve the descriptions and/or to add new resources to the list.
 
----
 
 ## Supervised Learning
 
 
----
 
 ## Unsupervised Learning
 
-
----
 
 ## Semi-Supervised Learning
 
