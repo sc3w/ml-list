@@ -12,11 +12,9 @@ Feel free to extend the list.
 
 ### Linear Regression
 
-[Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-
-[Lesson 1: Simple Linear Regression - Penn State University](https://onlinecourses.science.psu.edu/stat501/node/250)
-
-[All about Linear Regression](https://medium.com/@supreethmanyam/all-about-linear-regression-ef2f3e13951d)
+- [Machine Learning is Fun!](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+- [Lesson 1: Simple Linear Regression - Penn State University](https://onlinecourses.science.psu.edu/stat501/node/250)
+- [All about Linear Regression](https://medium.com/@supreethmanyam/all-about-linear-regression-ef2f3e13951d)
 
 ### Logistic Regression
 
